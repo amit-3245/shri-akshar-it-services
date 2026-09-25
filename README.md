@@ -1,155 +1,448 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="DigiCore is a modern React IT Solution Website Template built for IT companies, software firms, web development agencies, and digital marketing businesses. Fully responsive, SEO-friendly, and performance-optimized." />
-  <meta name="keywords" content="it-solution-website-template,it-company-website-template,software-company-website-template,it-services-company-website-template,web-development-website-template,digital-marketing-website-template,tech-company-website-template" />
-  <meta name="author" content="Themixly Web" />
-  <link rel="canonical" href="https://themixly.com/preview/2593/tech-company-website-react-template/" />
-</head>
-<body>
 
-<h1>DigiCore – React IT Solution & Tech Company Website Template</h1>
+# Shri Akshar IT & Technology
 
-<h2>Introduction</h2>
-<p>DigiCore is a modern and performance-driven IT Solution Website Template built with React 19+. It is specially designed for IT companies, software firms, web development agencies, SaaS startups, and digital marketing businesses.
-</p>
-<p>This IT Company Website Template features a clean corporate layout, responsive design, and structured components to help technology brands establish authority, showcase services, and generate high-quality leads online.</p>
+### Modern IT Solutions, Software Development & Digital Services
 
-<h2>🔗 Live Preview & Download</h2>
-<ul>
-  <li>🚀 <a href="https://themixly.com/preview/2593/tech-company-website-react-template/" target="_blank">Live Demo – DigiCore Template</a></li>
-  <li>🛒 <a href="https://themixly.com/themes/tech-company-website-react-template/" target="_blank">Buy Full Version on Themixly</a></li>
-  <li>📦 <a href="https://github.com/themixlyweb/react-tech-company-website-template/" target="_blank">Download from GitHub (Free)</a></li>
-</ul>
+[![Website](https://img.shields.io/badge/Website-Shri%20Akshar%20IT-blue)](https://github.com/amit-3245/shri-akshar-it-services)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-<h2>🧩 Feature Comparison: GitHub Free vs Themixly Pro</h2>
-<table>
-  <thead>
-    <tr><th>Feature</th><th>GitHub Free Version</th><th>Themixly Full Version</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>React 19+</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Multi-page Layout</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Service Page</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Portfolio Page</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Company Page</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Additional Pages</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Responsive for All Devices</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Custom Components</td><td>Limited</td><td>Full UI Kit Included</td></tr>
-    <tr><td>Lifetime Updates</td><td>Community Only</td><td>Lifetime Free Updates</td></tr>
-    <tr><td>Licensing</td><td>MIT (Free)</td><td>Commercial Use Allowed</td></tr>
-    <tr><td>Premium Support</td><td>Community via GitHub</td><td>1:1 Support via Email</td></tr>
-  </tbody>
-</table>
+**Shri Akshar IT & Technology** is a modern IT services website developed for **Shri Akshar Services Private Limited**. The website presents the company's IT solutions, software development services, digital services, business solutions, portfolio, blogs, and contact information through a responsive and professional interface.
 
-<h3>👉 <a href="https://themixly.com/themes/tech-company-website-react-template/" target="_blank">Unlock Premium Features</a></h3>
+The project is designed with a modern corporate UI, responsive layouts, reusable components, and a user-friendly experience for desktop, tablet, and mobile users.
 
-<h2>🧠 Template Use Cases</h2>
-<p>DigiCore is perfect for:</p>
-<ul>
-  <li>IT Services Companies</li>
-  <li>Software Development Firms</li>
-  <li>Web Development Agencies</li>
-  <li>Digital Marketing Companies</li>
-  <li>Technology Consulting Businesses</li>
-  <li>IT Solution Providers Websites</li>
-</ul>
+---
 
-<h2>💡 Key Features</h2>
-<ul>
-  <li>Built with React 19+</li>
-  <li>Modern IT & Corporate Layout</li>
-  <li>Fully Responsive Design (Desktop, Tablet & Mobile)</li>
-  <li>SEO-Friendly Structure</li>
-  <li>Clean & Reusable Components</li>
-  <li>Easy Customization</li>
-  <li>Lead-Generation Focused Sections</li>
-</ul>
+## 📌 About the Company
 
-<h2>📸 Screenshots</h2>
+**Shri Akshar IT & Technology** is a unit of **Shri Akshar Services Private Limited**, focused on delivering technology-driven business solutions and digital services.
 
-<figure>
-  <figcaption>Built with a mobile-first layout, the template works seamlessly across desktop, tablet, and mobile devices.</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2026/02/Artboard-3-scaled.jpg" alt="DigiCore – Fully Responsive on All Devices">
-</figure>
+We aim to help businesses improve their digital presence, automate processes, and adopt reliable technology solutions.
 
-<h2>✨Why Choose DigiCore?</h2>
-<ul>
-  <li>Designed specifically for IT and tech companies</li>
-  <li>Optimized as an IT Services Company Website Template</li>
-  <li>Corporate, conversion-focused layout</li>
-  <li>Built with modern React architecture</li>
-  <li>Developer-friendly code structure</li>
-  <li>SEO-ready structure for better search visibility</li>
-  <li>Ideal for digital agencies and software companies</li>
-</ul>
+### Company Information
 
-<h2>🛠️ Tech Stack</h2>
-<ul>
-  <li>⚛️ React 19+</li>
-</ul>
+| Information | Details |
+|---|---|
+| Company Name | Shri Akshar Services Private Limited |
+| Brand | Shri Akshar IT & Technology |
+| Business Type | IT Services & Technology Solutions |
+| Location | Bareilly, Uttar Pradesh, India |
+| Address | 442, Ganesh Nagar, Badaun Road, Bareilly, Uttar Pradesh - 243001 |
+| Contact Number | +91 8279910156 |
+| Additional Contact | +91 9817028180 |
+| Email | shriaksharservices@gmail.com |
+| Enquiry Email | as9898483@gmail.com |
+| GSTIN | 09ABLCS1675G1ZY |
+| CIN | U46497UP2023PTC184936 |
 
-<h2>🚀 Getting Started</h2>
-<pre><code>npm install       # Install dependencies
-npm start       # Start development server
-npm run build     # Build for production
-</code></pre>
+---
 
-<h3>📁 Folder Structure</h3>
-<pre><code>DigiCore/
-├── components/
-├── pages/
+## 🌐 Project Overview
+
+This website provides a professional digital platform for showcasing Shri Akshar IT & Technology's services and solutions.
+
+### Main Objectives
+
+- Build a professional online presence for the company.
+- Showcase IT services and technology solutions.
+- Present portfolio projects and case studies.
+- Provide a simple contact and enquiry experience.
+- Improve brand visibility and customer engagement.
+- Create a responsive and accessible website.
+- Provide a foundation for future business features.
+
+---
+
+## ✨ Key Features
+
+### 🏢 Company Website
+
+- Professional homepage
+- Company introduction
+- About company section
+- Mission and vision sections
+- Company information
+- Contact details
+
+### 💻 IT Services
+
+- Web development services
+- Software development solutions
+- Backend development
+- API development
+- Business automation solutions
+- Digital transformation services
+- Custom technology solutions
+
+### 🧩 Website Sections
+
+- Home
+- About
+- Services
+- Solutions
+- Portfolio
+- Case Studies
+- Blog
+- Contact
+- Privacy Policy
+- Terms and Conditions
+- Disclaimer
+
+### 🎨 UI and User Experience
+
+- Modern dark-themed interface
+- Responsive design
+- Mobile-friendly layouts
+- Reusable components
+- Professional typography
+- Smooth animations
+- Interactive navigation
+- Responsive service cards
+- Call-to-action sections
+- Structured footer navigation
+
+### 📱 Responsive Compatibility
+
+The website is designed to work across:
+
+- Desktop computers
+- Laptops
+- Tablets
+- Android devices
+- iOS devices
+- Mobile browsers
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Responsive UI design
+
+### Development Tools
+
+- Node.js
+- npm
+- Visual Studio Code
+- Git
+- GitHub
+- Browser Developer Tools
+
+### Future Integration Possibilities
+
+- Backend API integration
+- Contact enquiry management
+- CRM integration
+- Admin dashboard
+- Authentication
+- Database integration
+- Analytics integration
+- Email notification system
+
+---
+
+## 📂 Project Structure
+
+```text
+shri-akshar-it-services/
+│
 ├── public/
-├── scss/
-├── styles/
+│   ├── images/
+│   ├── favicon/
+│   └── other public assets
+│
+├── src/
+│   │
+│   ├── admin/
+│   │   ├── AdminProtectedRoute.jsx
+│   │   └── adminApi.js
+│   │
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── other assets
+│   │
+│   ├── Components/
+│   │   ├── Header
+│   │   ├── Footer
+│   │   ├── Navbar
+│   │   └── reusable components
+│   │
+│   ├── Pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Services.jsx
+│   │   ├── Solutions.jsx
+│   │   ├── Portfolio.jsx
+│   │   ├── Blog.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Disclaimer.jsx
+│   │   ├── NotFound.jsx
+│   │   └── other pages
+│   │
+│   ├── Data/
+│   │   └── website data
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── styles
+│
+├── package.json
+├── package-lock.json
+├── .gitignore
 ├── README.md
-└── package.json
-</code></pre>
+└── LICENSE
+```
 
-<h2>📦 What’s Included in the Free GitHub Version?</h2>
-<p>The free version of DigiCore includes:</p>
-<ul>
-  <li>✅ Home (Hero) Section</li>
-  <li>✅ About Page</li>
-  <li>✅ Service Overview</li>
-  <li>✅ Responsive layout for all devices</li>
-  <li>✅ Basic Header & Footer navigation</li>
-  <li>✅ Limited reusable components</li>
-  <li>✅ Free for personal and educational use under MIT License</li>
-</ul>
+> The folder structure may change as new features and components are added.
 
-<p>🔒 Full features like about, Service , Portifolio, Company, Blog and more are available in the premium version.</p>
-<p>👉 <a href="https://themixly.com/themes/tech-company-website-react-template/" target="_blank">Get the Complete Edition on Themixly</a></p>
+---
 
-<h2>📝 License</h2>
-<p>This template is licensed under the <a href="https://github.com/themixlyweb/react-tech-company-website-template/blob/main/LICENSE" target="_blank">MIT License</a>.<br/>
-You may use this version for personal and educational purposes.</p>
+## 🚀 Getting Started
 
-<h2>📢 Support & Contributions</h2>
-<ul>
-  <li>⭐ Star this repo if you find it useful</li>
-  <li>Share with your developer community</li>
-  <li>Want full features & commercial license?</li>
-  <li>👉 Unlock the Complete Edition – Engineered for Performance on <a href="https://themixly.com/" target="_blank">Themixly</a></li>
-</ul>
+Follow these steps to run the project locally.
 
+### 1. Clone the Repository
 
-<h2>🔗 Other Templates You May Like</h2>
-<ul>
-  <li><a href="https://themixly.com/themes/business-consulting-website-react-template/" target="_blank">BizNexus – React Business Consulting Website Template Template</a></li>
-  <li><a href="https://themixly.com/themes/education-ngo-school-website-react-template/" target="_blank">Eduhub – Education NGO & School Website Template</a></li>
-</ul>
-<p>🔗 View Our Template Collection → <a href="https://themixly.com/themes" target="_blank">Themixly Themes</a></p>
+```bash
+git clone https://github.com/amit-3245/shri-akshar-it-services.git
+```
 
-<h2>🧾 Contact Us</h2>
-<p>Need support or custom development?<br/>
-📩 <a href="https://themixly.com/contact-us/" target="_blank">Contact Themixly Team</a></p><br/>
+### 2. Navigate to the Project Directory
 
-<footer>
-  © 2026 Themixly. All rights reserved. | Built with ❤️ for developers & designers.
-</footer>
+```bash
+cd shri-akshar-it-services
+```
 
-</body>
-</html>
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm start
+```
+
+If the project uses Vite, run:
+
+```bash
+npm run dev
+```
+
+### 5. Open the Website
+
+Open the local development URL displayed in your terminal.
+
+For a typical Vite project:
+
+```text
+http://localhost:5173/
+```
+
+---
+
+## 📦 Available Scripts
+
+| Command | Description |
+|---|---|
+| `npm install` | Installs project dependencies |
+| `npm start` | Starts the development server if configured |
+| `npm run dev` | Starts the Vite development server if configured |
+| `npm run build` | Creates a production build |
+| `npm run preview` | Previews the production build if supported |
+| `npm test` | Runs configured tests if available |
+
+> Use the scripts defined in the project's `package.json` file.
+
+---
+
+## 🖥️ Website Pages
+
+### 🏠 Home
+
+The homepage introduces Shri Akshar IT & Technology and highlights the company's services, solutions, and business value.
+
+### ℹ️ About
+
+The About page provides company information, business introduction, and the company's overall technology focus.
+
+### ⚙️ Services
+
+The Services section presents the technology and digital services offered by the company.
+
+### 💡 Solutions
+
+The Solutions section describes potential technology solutions for businesses and organizations.
+
+### 💼 Portfolio
+
+The Portfolio section showcases completed projects, development work, and selected business solutions.
+
+### 📝 Blog
+
+The Blog section is designed to share technology-related articles, company updates, insights, and educational content.
+
+### 📞 Contact
+
+The Contact page provides company contact information and an enquiry interface for potential customers.
+
+### ⚠️ Legal Pages
+
+The project includes legal and informational pages such as:
+
+- Privacy Policy
+- Terms and Conditions
+- Disclaimer
+
+---
+
+## 📈 Future Improvements
+
+The following features can be added in future releases:
+
+- [ ] Backend integration
+- [ ] Contact form API
+- [ ] Admin dashboard
+- [ ] Customer enquiry management
+- [ ] CRM integration
+- [ ] Blog management system
+- [ ] User authentication
+- [ ] Database integration
+- [ ] Email notifications
+- [ ] WhatsApp enquiry integration
+- [ ] Search engine optimization
+- [ ] Website analytics
+- [ ] Performance optimization
+- [ ] Multi-language support
+- [ ] Deployment automation
+
+---
+
+## 🔐 Security Guidelines
+
+For production deployment:
+
+- Do not store passwords directly in source code.
+- Do not commit `.env` files.
+- Keep API keys and credentials private.
+- Use environment variables for sensitive configuration.
+- Apply proper authentication and authorization.
+- Validate all user-submitted form data.
+- Use HTTPS in production.
+- Keep project dependencies updated.
+- Configure secure backend API access.
+- Never expose private administrative credentials in a public repository.
+
+---
+
+## 🌍 Deployment
+
+The website can be deployed using supported hosting platforms such as:
+
+- Vercel
+- Netlify
+- Render
+- GitHub Pages, where compatible
+- Other static hosting providers
+
+### Production Build
+
+```bash
+npm run build
+```
+
+After generating the production build, deploy the output directory according to your hosting provider's configuration.
+
+---
+
+## 📞 Contact Information
+
+### Shri Akshar IT & Technology
+
+**A Unit of Shri Akshar Services Private Limited**
+
+📍 **Address:**
+
+442, Ganesh Nagar, Badaun Road,  
+Bareilly, Uttar Pradesh - 243001, India
+
+📱 **Business Contact:**
+
++91 8279910156
+
+📱 **Additional Enquiries:**
+
++91 9817028180
+
+📧 **Email:**
+
+shriaksharservices@gmail.com
+
+📧 **Enquiry Email:**
+
+as9898483@gmail.com
+
+---
+
+## 🤝 Contributions
+
+Contributions and suggestions for improving the project are welcome.
+
+To contribute:
+
+1. Fork the repository.
+2. Create a new feature branch.
+3. Make your changes.
+4. Test your changes locally.
+5. Commit your changes.
+6. Create a pull request.
+
+Example:
+
+```bash
+git checkout -b feature/new-feature
+git add .
+git commit -m "Add new feature"
+git push origin feature/new-feature
+```
+
+---
+
+## 📄 License
+
+This project is maintained for Shri Akshar IT & Technology.
+
+The licensing terms should be reviewed and finalized according to the company's ownership, project dependencies, and intended usage.
+
+See the [LICENSE](LICENSE) file for the applicable license information.
+
+---
+
+## ⭐ Support the Project
+
+If you find this project useful:
+
+- Star the GitHub repository.
+- Share the project with your network.
+- Report bugs through GitHub Issues.
+- Suggest improvements.
+- Contact the company for business enquiries and custom development requirements.
+
+---
+
+## © Copyright
+
+© 2026 Shri Akshar IT & Technology.  
+A Unit of Shri Akshar Services Private Limited.
+
+**All rights reserved where applicable.**
