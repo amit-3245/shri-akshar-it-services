@@ -1,2 +1,30 @@
-node_modules
-node_modules
+
+# React
+node_modules/
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python backend
+shri-akshar-backend/venv/
+shri-akshar-backend/.venv/
+shri-akshar-backend/__pycache__/
+shri-akshar-backend/**/*.pyc
+shri-akshar-backend/.pytest_cache/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
