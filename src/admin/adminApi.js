@@ -1,4 +1,5 @@
-const API_URL = "http://127.0.0.1:8000";
+// const API_URL = "http://127.0.0.1:8000"
+const API_URL = "https://shri-akshar-backend.onrender.com";
 
 const TOKEN_KEY = "shri_akshar_admin_token";
 
